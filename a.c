@@ -3,5 +3,5 @@
 int main(void)
 {
     printf("hello, world\n");
-    printf("this is the second line\n but it will soon be removed");
+    //printf("this is the second line\n but it will soon be removed");
 }
